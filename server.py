@@ -1,4 +1,5 @@
-# During writing this bot was used materials from articles how to create your own bot in the FB
+# During writing this bot was used materials
+# from articles how to create your own bot in the FB
 # in the Enternet with codes
 import requests
 from flask import Flask, request, app
